@@ -23,7 +23,7 @@
         },
         "BOT_NAME": {
             "description": "Bot Name",
-            "value": "Allen Bot"
+            "value": "Yanna-Bot"
         },
         "TIME_ZONE": {
             "description": "Time Zone Bot",
@@ -31,11 +31,11 @@
         },
         "FOOTER": {
             "description": "Footer of bot",
-            "value": "AllenBot • Paiiss"
+            "value": "YannaBot • YanGG"
         },
         "LINK_GROUP": {
             "description": "Link Your Group Support",
-            "value": "https://chat.whatsapp.com/CktCFlTbTiMLq5K4fgIidd"
+            "value": "https://chat.whatsapp.com/C9kKGXGQ9j9LNSQV9t2Bnh"
         }
     },
     "formation": {
