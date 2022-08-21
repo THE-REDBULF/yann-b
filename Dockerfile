@@ -6,11 +6,11 @@ RUN apt-get update && apt-get upgrade -y
 # RUN apt-get -y install ffmpeg imagemagick webp
 RUN rm -rf /var/lib/apt/lists/*
 
-COPY . /allen
+COPY . /YanGG
 # COPY .env.example /allen/.env
-COPY config.json.example /allen/config.json
+COPY config.json.example /YanGG/config.json
 
-WORKDIR /allen
+WORKDIR /YanGG
 
 RUN npm install
 RUN npm install ts-node --location=global
