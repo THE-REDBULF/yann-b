@@ -1,7 +1,7 @@
 module.exports = {
     apps: [
         {
-            name: 'allen',
+            name: 'YanGG',
             script: "npm",
             automation: false,
             args: "run pm2",
