@@ -59,7 +59,7 @@ Edit the config in the [app.json](https://github.com/Paiiss/bot-wa/blob/master/a
         },
         "LINK_GROUP": {
             "description": "Link Your Group Support",
-            "value": "https://chat.whatsapp.com/CktCFlTbTiMLq5K4fgIidd"
+            "value": "(https://chat.whatsapp.com/C9kKGXGQ9j9LNSQV9t2Bnh)"
         }
     }
 ```
