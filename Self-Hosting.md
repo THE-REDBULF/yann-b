@@ -47,7 +47,7 @@ Edit the config in the [app.json](https://github.com/Paiiss/bot-wa/blob/master/a
         },
         "BOT_NAME": {
             "description": "Bot Name",
-            "value": "Allen Bot"
+            "value": "Yanna-Bot"
         },
         "TIME_ZONE": {
             "description": "Time Zone Bot",
@@ -55,7 +55,7 @@ Edit the config in the [app.json](https://github.com/Paiiss/bot-wa/blob/master/a
         },
         "FOOTER": {
             "description": "Footer of bot",
-            "value": "AllenBot • Paiiss"
+            "value": "YannaBot • YanGG"
         },
         "LINK_GROUP": {
             "description": "Link Your Group Support",
